@@ -1,6 +1,6 @@
 import json
 print('\n Welcome \n')
-people_choice = input('if you want to wash your car input yes(y) or no ') == 'y'
+people_choice = input('if you want to wash your car input yes(y) if no input no ') == 'y'
 with open("data.json", "r+") as file:
     data = json.load(file)
 while True:
