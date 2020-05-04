@@ -4,3 +4,5 @@ The app is created for businessmans and comapanies that have a lot of cars and n
 When the user enters the app they are asked to choose a district where they want to wash their car. 
 When choosing one the app will show the prices for their services and the exact adress of the company.
 Moreover, there will be written a phone number by which user can reserve, and wash their car at the time they wish.
+Users get codes which they can use in order to get a free drink while waiting
+wokers have the ability to check where they have customers 
